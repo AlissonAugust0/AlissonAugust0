@@ -35,7 +35,7 @@ Explorando o mundo da programação e desenvolvendo projetos para evoluir minhas
 
 <div align="center">
 
-### 📫 Vamos nos conectar!
+
 
 ## 📫 Vamos nos conectar!
 
